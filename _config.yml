@@ -248,8 +248,10 @@ title: 'Cabeça Livre'
 
 # Site description
 description: > # this means to ignore newlines until the text ends
-    Este site visa trazer notícias que não aparecem comumente na mídia local
-    brasileira. É destinado a quem busca uma fonte alternativa de informação.
+    Exercite o raciocínio crítico, o questionamento ao senso comum, a leitura de
+    notícias que normalmente não aparecem na grande mídia brasileira e a buscar
+    você mesmo a verdade, da qual ninguém (nem mesmo este site) é dono. Dedico
+    este site a quem busca uma fonte alternativa de informação.
 
 # Default site image
 # Image used as a default thumbnail for pages and posts which do not have an
