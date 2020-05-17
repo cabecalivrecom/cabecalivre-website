@@ -1,7 +1,7 @@
 #!/bin/bash
-USER="kamarada"
-SOURCE="kamarada-website"
-TARGET="kamarada.github.io"
+USER="cabecalivrecom"
+SOURCE="cabecalivre-website"
+TARGET="cabecalivrecom.github.io"
 
 git add --all .
 git stash

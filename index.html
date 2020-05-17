@@ -24,7 +24,23 @@ layout: default
                 <div class='col-sm-6'>
                     <p class="blog-post-date" itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}">
                         <a href="{{ post.date | date: '/%Y/%m/%d/' | prepend: site.baseurl | replace: '//', '/' }}">
-                            {{ post.date | date: "%b %-d, %Y" }}
+                            {{ post.date | date: "%d de" }}
+                            {% assign m = post.date | date: "%-m" %}
+                            {% case m %}
+                            {% when '1' %}Janeiro
+                            {% when '2' %}Fevereiro
+                            {% when '3' %}Março
+                            {% when '4' %}Abril
+                            {% when '5' %}Maio
+                            {% when '6' %}Junho
+                            {% when '7' %}Julho
+                            {% when '8' %}Agosto
+                            {% when '9' %}Setembro
+                            {% when '10' %}Outubro
+                            {% when '11' %}Novembro
+                            {% when '12' %}Dezembro
+                            {% endcase %}
+                            {{ post.date | date: "de %Y" }}
                         </a>
                     </p>
                     <meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%Y-%m-%d" }}" />
@@ -90,10 +106,10 @@ layout: default
                 {% endif %}
                     <p itemprop="description">{{ post.excerpt | strip_html | strip_newlines | truncatewords: 55 }}</p>
                     {% if site.disqus_shortname %}
-                        <a class='btn btn-primary float-left' href="{{ '#disqus_thread' | prepend: post.url | prepend: site.baseurl | replace: '//', '/' }}">Comments</a>
+                        <a class='btn btn-primary float-left' href="{{ '#disqus_thread' | prepend: post.url | prepend: site.baseurl | replace: '//', '/' }}">Comentários</a>
                     {% endif %}
                     <a class='btn btn-primary float-right' href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                        Read more &rsaquo;
+                        Leia mais &rsaquo;
                     </a>
                 </div>
             </div><!-- .row -->
