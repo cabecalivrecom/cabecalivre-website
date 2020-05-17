@@ -50,7 +50,7 @@ body {
 
 @media (min-width: 320px) {
     a.navbar-brand {
-        background: url(../favicons/favicon-32x32.png) 0px no-repeat;
+        background: url(../../favicon-32x32.png) 0px no-repeat;
         padding-left: 45px !important;
     }
 }
