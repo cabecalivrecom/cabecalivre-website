@@ -130,7 +130,7 @@ google:
         # Google AdSense publisher ID
         # Your publisher ID is the unique identifier for your AdSense account.
         # Default: not set (Google AdSense is not used to show ads)
-        publisher_id: 'pub-5193467168351289'
+        # publisher_id: pub-1234567890123456
 
         # If you do not know your publisher ID, take a look at
         # https://support.google.com/adsense/answer/105516
@@ -139,17 +139,17 @@ google:
         # the title, if in a page or post, or after the first post, if in a post
         # listing
         # Default: not set (no ad is displayed at the top)
-        content_ad_unit_1: 7049989586
+        # content_ad_unit_1: 1234567890
 
         # Ad unit ID for the ad displayed inside the page content, randomly
         # placed between paragraphs, if in a page or post, or between posts, if
         # in a post listing
         # Default: not set (no ad is displayed in the page content)
-        content_ad_unit_2: 3973782995
+        # content_ad_unit_2: 0987654321
 
         # Ad unit ID for the ad displayed in the sidebar
         # Default: not set (no ad is displayed in the sidebar)
-        sidebar_ad_unit: 9924113677
+        # sidebar_ad_unit: 1231231231
 
         # Note: use only responsive ad units
 
