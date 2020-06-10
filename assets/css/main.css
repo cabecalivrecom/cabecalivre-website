@@ -39,6 +39,7 @@ body {
 /* Header */
 
 .navbar {
+    background-color: #424242 !important;
     z-index: 2;
 }
 
@@ -144,7 +145,7 @@ body {
 /* Footer */
 
 .footer {
-    background-color: #009688;
+    background-color: #424242;
     bottom: 0;
     position: absolute;
     width: 100%;
@@ -394,4 +395,9 @@ https://pro.propeller.in/components/floating-button.php
     position: fixed;
     right: 1rem;
     z-index: 1000;
+}
+
+.alert a {
+    color: inherit;
+    text-decoration: underline;
 }
