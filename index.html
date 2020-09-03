@@ -119,12 +119,20 @@ layout: default
             {% endif %}
 
             {% if p == 1 %}
-                {% include a-ads.html id="1465064" %}
+                <div class="row">
+                    <div class="col-12">
+                        {% include a-ads.html id="1465064" %}
+                    </div>
+                </div>
             {% endif %}
 
             {% if paginator %}
                 {% if p == paginator.total_posts %}
-                    {% include a-ads.html id="1465103" %}
+                    <div class="row">
+                        <div class="col-12">
+                            {% include a-ads.html id="1465103" %}
+                        </div>
+                    </div>
                 {% endif %}
             {% endif %}
 
