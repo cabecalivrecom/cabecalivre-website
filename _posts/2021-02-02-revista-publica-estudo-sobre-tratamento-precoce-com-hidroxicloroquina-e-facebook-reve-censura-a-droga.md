@@ -3,14 +3,14 @@ date: '2021-02-02 15:45:00 GMT-3'
 layout: post
 published: true
 title: 'Revista publica estudo sobre tratamento precoce com hidroxicloroquina e Facebook revê censura à droga'
-image: '/files/2021/01/hcq.jpg'
+image: '/files/2021/02/hcq.jpg'
 ---
 
-{% include image.html src='/files/2021/01/hcq.jpg' %}
+{% include image.html src='/files/2021/02/hcq.jpg' %}
 
 Um novo [estudo][ajm] publicado na revista científica [American Journal of Medicine][ajm] na edição de janeiro de 2021 afirma que quando iniciado mais cedo, o tratamento com antimaláricos — mais especificamente, a hidroxicloroquina (HCQ) — pode reduzir o desenvolvimento da Covid-19, prevenir hospitalização e está associado a redução de mortalidade. O estudo cita quatro outros estudos para embasar essa afirmação. Lembra ainda que a HCQ foi aprovada pela FDA em 1955 (ou seja, há mais de 60 anos), tem sido usada por centenas de milhões de pessoas em todo o mundo desde então, já é vendida nas farmácias em muitos países e tem um perfil de segurança bem caracterizado que não deve levantar alarmes desnecessários.
 
-{% include image.html src='/files/2021/01/hcq-amj.jpg' caption='Fonte: [American Journal of Medicine](https://www.amjmed.com/article/S0002-9343(20)30673-2/fulltext)' %}
+{% include image.html src='/files/2021/02/hcq-amj.jpg' caption='Fonte: [American Journal of Medicine](https://www.amjmed.com/article/S0002-9343(20)30673-2/fulltext)' %}
 
 O estudo menciona, além da hidroxicloroquina, outros fármacos que também podem ser usados, inclusive combinados, para frear a reprodução do vírus, como sulfato de zinco, azitromicina, doxiciclina e favipiravir.
 
@@ -20,15 +20,15 @@ Nos últimos meses, o _site_ [c19study.com][c19study] tem feito o trabalho de ac
 
 Segundo o _site_ [c19study.com][c19study], 26 ensaios clínicos mostraram que 67% dos pacientes melhoraram quando submetidos a tratamentos precoces, enquanto 132 ensaios clínicos mostraram que houve melhora de apenas 25% dos pacientes com tratamentos tardios.
 
-{% include image.html src='/files/2021/01/hcq-c19study-summary.png' caption='Fonte: [c19study.com](https://c19study.com/)' %}
+{% include image.html src='/files/2021/02/hcq-c19study-summary.png' caption='Fonte: [c19study.com](https://c19study.com/)' %}
 
 Você não precisa confiar cegamente no [c19study.com][c19study]: ele traz _links_ para todos os estudos que ele lista, que você pode abrir, ler diretamente da revista e conferir por conta própria.
 
-{% include image.html src='/files/2021/01/hcq-c19study.jpg' caption='Para conferir um estudo no site [c19study.com](https://c19study.com/), clique no estudo e depois em Source (fonte).' %}
+{% include image.html src='/files/2021/02/hcq-c19study.jpg' caption='Para conferir um estudo no site [c19study.com](https://c19study.com/), clique no estudo e depois em Source (fonte).' %}
 
 Eu, por exemplo, conferi o [estudo][ajem] a seguir, que será publicado na edição de fevereiro da [American Journal of Emergency Medicine][ajem]. Ele afirma que a hidroxicloroquina pode ser usada com segurança no tratamento precoce de pacientes com sintomas leves da Covid-19 que estão estáveis e não requerem hospitalização.
 
-{% include image.html src='/files/2021/01/hcq-ajem.jpg' caption='Fonte: [American Journal of Emergency Medicine](https://www.sciencedirect.com/science/article/pii/S0735675720311335)' %}
+{% include image.html src='/files/2021/02/hcq-ajem.jpg' caption='Fonte: [American Journal of Emergency Medicine](https://www.sciencedirect.com/science/article/pii/S0735675720311335)' %}
 
 Também em janeiro [o Facebook decidiu rever a remoção de um vídeo][facebook] postado em outubro de 2020 em que um usuário criticava a agência nacional de segurança de medicamentos francesa (análoga francesa à brasileira Anvisa) por se recusar a autorizar o uso de hidroxicloroquina combinada com azitromicina. O Facebook não chegou a afirmar com todas as letras que "cometeu um erro", mas sua decisão recente de restaurar o conteúdo mostra claramente que a empresa reavaliou sua decisão anterior de tê-lo removido.
 
@@ -42,7 +42,7 @@ Ela fez uma crítica ao recente posicionamento do Facebook em seu perfil no Twit
 
 <!-- Não custa guardar um print:
 {% markdown %}
-{% include image.html src='/files/2021/01/hcq-drsimonegold.jpg' caption='Fonte: [Dr. Simone Gold (@drsimonegold) no Twitter](https://twitter.com/drsimonegold/status/1354936464254107650)' %}
+{% include image.html src='/files/2021/02/hcq-drsimonegold.jpg' caption='Fonte: [Dr. Simone Gold (@drsimonegold) no Twitter](https://twitter.com/drsimonegold/status/1354936464254107650)' %}
 {% endmarkdown %}
 -->
 
@@ -54,7 +54,7 @@ Por outro lado, não foram classificadas como "desinformação" nem censuradas p
 
 <!-- Não custa guardar um print:
 {% markdown %}
-{% include image.html src='/files/2021/01/hcq-felipeneto.jpg' caption='Fonte: [Felipe Neto (@felipeneto) no Twitter](https://twitter.com/felipeneto/status/1350665675057061888)' %}
+{% include image.html src='/files/2021/02/hcq-felipeneto.jpg' caption='Fonte: [Felipe Neto (@felipeneto) no Twitter](https://twitter.com/felipeneto/status/1350665675057061888)' %}
 {% endmarkdown %}
 -->
 
@@ -62,7 +62,7 @@ Por outro lado, não foram classificadas como "desinformação" nem censuradas p
 
 <!-- Não custa guardar um print:
 {% markdown %}
-{% include image.html src='/files/2021/01/hcq-petracostal.jpg' caption='Fonte: [Petra Costa (@petracostal) no Twitter](https://twitter.com/petracostal/status/1355226189082853382)' %}
+{% include image.html src='/files/2021/02/hcq-petracostal.jpg' caption='Fonte: [Petra Costa (@petracostal) no Twitter](https://twitter.com/petracostal/status/1355226189082853382)' %}
 {% endmarkdown %}
 -->
 
@@ -70,7 +70,7 @@ Por outro lado, não foram classificadas como "desinformação" nem censuradas p
 
 <!-- Não custa guardar um print:
 {% markdown %}
-{% include image.html src='/files/2021/01/hcq-estevaoslowp.jpg' caption='Fonte: [Estêvão Slow (@EstevaoSlowP) no Twitter](https://twitter.com/EstevaoSlowP/status/1350873513675149320)' %}
+{% include image.html src='/files/2021/02/hcq-estevaoslowp.jpg' caption='Fonte: [Estêvão Slow (@EstevaoSlowP) no Twitter](https://twitter.com/EstevaoSlowP/status/1350873513675149320)' %}
 {% endmarkdown %}
 -->
 
