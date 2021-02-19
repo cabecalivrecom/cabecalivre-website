@@ -90,9 +90,9 @@ Quando saírem as estatísticas de óbitos de todo o ano de 2020 — geralmente 
 
 Mas, por outro lado, possivelmente teremos uma redução nos números de óbitos pelas outras causas. Mais uma vez, lembre-se: na maior parte das mortes ditas "por" Covid, a Covid não foi a única causa. Portanto, se uma pessoa morreu de Covid e diabetes, por exemplo, e foi contabilizada como morte por Covid, logo, é uma morte que deixou de ser contabilizada como sendo morte por diabetes.
 
-{% include update.html date="19/02/2021" message="De acordo com a Secretaria Municipal de Saúde da cidade de São Paulo, [não houve mortes por dengue na cidade de São Paulo em 2020](https://www.band.uol.com.br/noticias/ninguem-morreu-por-dengue-na-cidade-de-sp-em-2020-16323132). Discordo do repórter da Band que diz que isso é surpreendente. Na minha opinião, isso é altamente improvável. O mais provável é que as mortes por dengue tenham sido contabilizadas como mortes por Covid." %}
-
 Como saber qual seria o certo a se fazer nesse exemplo? O que define que uma morte deve ser contabilizada como Covid ou diabetes?
+
+{% include update.html date="19/02/2021" message="De acordo com a Secretaria Municipal de Saúde da cidade de São Paulo, [não houve mortes por dengue na cidade de São Paulo em 2020](https://www.band.uol.com.br/noticias/ninguem-morreu-por-dengue-na-cidade-de-sp-em-2020-16323132). Discordo do repórter da Band que diz que isso é surpreendente. Na minha opinião, isso é altamente improvável. O mais provável é que as mortes por dengue tenham sido contabilizadas como mortes por Covid." %}
 
 ## Morte por Covid-19? Ou por acidente?
 
