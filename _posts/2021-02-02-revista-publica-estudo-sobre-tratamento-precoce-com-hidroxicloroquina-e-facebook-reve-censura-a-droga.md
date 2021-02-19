@@ -84,6 +84,8 @@ No entanto, o mesmo estudo argumenta que não há tempo hábil para realizar um 
 
 Provavelmente é por causa da ausência desse ensaio clínico que pessoas se posicionam contra a hidroxicloroquina. Eu acho curioso que muitas dessas mesmas pessoas são a favor do "fique em casa", mas não exigem o mesmo rigor científico para comprovar essa teoria, embasada em um modelo matemático feito pelo Imperial College (já falei dele [aqui][imperial-college]). Esse modelo não foi publicado em revista científica, nem foi revisado por pares, ao contrário de muitos dos estudos listados no [c19study.com][c19study] a favor da hidroxicloroquina, que foram.
 
+{% include update.html date="19/02/2021" message="Lembrei de uma entrevista dada pelo epidemiologista e professor [Dr Johan Giesecke](https://www.who.int/about/people/biography/dr-johan-giesecke) ao [canal UnHerd em abril de 2020](https://unherd.com/thepost/coming-up-epidemiologist-prof-johan-giesecke-shares-lessons-from-sweden/). Nessa entrevista, ele disse que nunca viu um artigo não publicado em revista científica ter tanto impacto político quanto esse do Imperial College." %}
+
 Como eu disse [em outro texto][oms], parece haver uma "torcida contra o remédio". Isso é doentio.
 
 Com esse texto quero dizer que sou a favor de prescrever hidroxicloroquina para todos os pacientes de Covid-19 sem distinção? Não. Sou a favor de algum outro remédio específico? Também não. Sou a favor, sim, que a decisão final seja do médico e do paciente. Penso que ninguém é melhor do que o próprio médico e o próprio paciente para ponderar as opções e, com base nas informações disponíveis, decidir qual remédio usar avaliando caso a caso.

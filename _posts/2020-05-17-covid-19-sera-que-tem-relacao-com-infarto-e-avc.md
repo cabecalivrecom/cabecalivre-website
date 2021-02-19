@@ -19,6 +19,8 @@ Agora os jornais buscam relação de causa e efeito entre coronavírus, infartos
 
 "Lista de sintomas da Covid-19 só aumenta". Começamos com um vírus que causava uma doença respiratória e hoje parece algo como um "vírus coringa", capaz de causar praticamente qualquer coisa. Bem, enquanto não tentarem associar o coronavírus com acidentes de trânsito ou disparo de armas de fogo, ainda estaremos dentro do razoável...
 
+{% include update.html date="19/02/2021" message="Tem gente dizendo que [a Covid-19 pode diminuir o tamanho do pênis](https://istoe.com.br/covid-19-pode-diminuir-o-tamanho-do-penis-especialistas-explicam-possiveis-sequelas/)." %}
+
 {% include image.html src="/files/2020/05/coringa.jpg" caption="Em muitos jogos de cartas, o coringa (_joker_) é uma carta que pode assumir o lugar de qualquer outra." %}
 
 Mas, antes dessa pandemia, o que sabíamos sobre o infarto e o AVC?
