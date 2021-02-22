@@ -369,6 +369,8 @@ instagram_username: "CabecaLivreCom"
 # Default: not set (Twitter URL is not displayed)
 twitter_username: "CabecaLivreCom"
 
+parler_username: "CabecaLivreCom"
+
 youtube:
     # What kind of YouTube profile you have (it can be "user" or "channel")
     # Default: not set (YouTube URL is not displayed)
