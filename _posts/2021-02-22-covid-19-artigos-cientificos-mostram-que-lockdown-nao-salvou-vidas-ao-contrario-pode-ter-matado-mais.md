@@ -90,7 +90,7 @@ Altas temperaturas e índices ultravioleta (UV) estão associados a baixas taxas
 
 Com relação às ações governamentais (e esses pesquisadores analisaram o mesmo índice de rigor do isolamento da Universidade de Oxford [que eu já havia estudado em maio][cabecalivre]), não foi encontrada associação com a taxa de mortalidade, sugerindo que outros fatores estudados foram mais importantes para a mortalidade por Covid-19 do que as medidas políticas implementadas para combater o vírus — incluindo o _lockdown_.
 
-[cabecalivre]: http://localhost:4000/2020/05/17/covid-19-isolamento-mais-rigido-nao-reduz-obitos/
+[cabecalivre]: {% post_url 2020-05-17-covid-19-isolamento-mais-rigido-nao-reduz-obitos %}
 
 O estudo critica as decisões políticas de fechar academias e aconselha aumentar a imunidade da população e prevenir o sedentarismo incentivando a atividade física.
 
@@ -134,7 +134,7 @@ Em entrevista ao programa [Os Pingos nos Is][ospingosnosis], o professor Bruno C
 
 {% include youtube.html id="PWT2DN5IBWk" %}
 
-## Mais informações
+## Mais informações sobre esses estudos
 
 Se você quiser saber mais sobre esses estudos, a melhor forma de fazer isso é lendo os próprios artigos. Os _links_ para as revistas científicas estão todos listados acima. Você pode clicar em um _link_, abrir o estudo, ler e tirar suas conclusões por conta própria.
 
@@ -159,3 +159,13 @@ Nesses vídeos, o apresentador Peter Turguniev abre as seguintes notícias:
 - [New study: Lockdown has no significant impact on COVID mortality - Israel National News][israelnationalnews]: essa notícia (em inglês) fala sobre o estudo francês (4)
 
 [israelnationalnews]: https://www.israelnationalnews.com/News/News.aspx/292091
+
+## Meu próprio estudo
+
+Em [maio de 2020][cabecalivre], eu já alertava aqui no Cabeça Livre que [isolamento mais rigoroso não necessariamente significa menos mortes por Covid-19][cabecalivre]. Eu comparei os dados de um estudo da Universidade de Oxford, sobre os diferentes níveis de restrições adotados por diferentes países, com os números de casos e óbitos por Covid-19. Fiz essa comparação para 12 países. Teve gente que zombou do meu trabalho porque eu era um anônimo em um _blog_ fazendo gráficos e planilhas com o LibreOffice Calc. Foi gratificante para mim ver pesquisadores de universidades publicando artigos científicos meses depois com conclusões semelhantes. Caso tenha interesse, veja meu estudo no texto:
+
+- [Covid-19: isolamento mais rígido não reduz óbitos][cabecalivre]
+
+E aqui fica uma lição: não caia na [falácia do argumento de autoridade][autoridade]. Um doutor em Matemática e o "João da padaria" estão igualmente certos se disserem que 2+2=4. O argumento em si é mais importante do que o autor do argumento.
+
+[autoridade]: https://pt.wikipedia.org/wiki/Argumentum_ad_verecundiam
