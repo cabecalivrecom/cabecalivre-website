@@ -404,6 +404,6 @@ https://pro.propeller.in/components/floating-button.php
 
 /* Parler */
 
-.custom_button_parler_follow:hover {
+.custom_button_gab_follow:hover, .custom_button_parler_follow:hover {
     text-decoration: none;
 }
