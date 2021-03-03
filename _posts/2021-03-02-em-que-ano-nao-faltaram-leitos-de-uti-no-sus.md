@@ -165,6 +165,8 @@ Em todas essas notícias, o fato que se observa é o mesmo: **faltam leitos de U
 
 Em diversos momentos antes da pandemia de Covid foi observada falta de leitos de UTI no SUS. Isso não começou a acontecer de março de 2020 pra cá. Ou seja, essa não é a primeira vez em que faltam leitos de UTI no SUS, e não há nada que leve a crer que será a última.
 
+Se o SUS nunca deu conta nem da demanda do dia a dia, podemos acreditar que ele dará conta de uma pandemia, onde a necessidade de leitos de UTI aumenta?
+
 Não é justo pôr a culpa da falta de leitos de UTI no SUS nas pessoas que trabalham, sustentam suas famílias, pagam suas contas e impostos, cumprem com todos os seus deveres de cidadão e tentam, como é possível, se divertir. Talvez a culpa seja dos gestores dos hospitais, talvez a culpa seja dos gestores públicos (prefeitos, governadores, presidentes), talvez o culpado seja outro, mas com certeza **a culpa não é da população**.
 
 Até porque já mostrei aqui que existem [artigos científicos][lockdown] que apontam que medidas como fechar fronteiras, escolas, universidades, academias, comércio, dentre outras medidas adotadas pelo governo, [**não fizeram diferença no número de casos ou óbitos por Covid-19**][lockdown]. Alguns estudos apontam o contrário: essas medidas podem ter feito diferença sim, mas **aumentando**, e não diminuindo, o número de casos e óbitos.
